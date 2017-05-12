@@ -1,0 +1,6 @@
+C:\Users\long.wan\Desktop\RedisStudy\RedisStudy\bin\Debug\RedisStudy.exe.config
+C:\Users\long.wan\Desktop\RedisStudy\RedisStudy\bin\Debug\RedisStudy.exe
+C:\Users\long.wan\Desktop\RedisStudy\RedisStudy\bin\Debug\RedisStudy.pdb
+C:\Users\long.wan\Desktop\RedisStudy\RedisStudy\obj\x86\Debug\RedisStudy.exe
+C:\Users\long.wan\Desktop\RedisStudy\RedisStudy\obj\x86\Debug\RedisStudy.pdb
+C:\Users\long.wan\Desktop\RedisStudy\RedisStudy\obj\x86\Debug\RedisStudy.csprojResolveAssemblyReference.cache
